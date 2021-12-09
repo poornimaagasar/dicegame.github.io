@@ -35,7 +35,7 @@ img
     width:60%;
     color:green;
 }
-btn
+@media(max-width:800px)
 {
     margin-top:5%;
 }
