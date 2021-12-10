@@ -35,4 +35,11 @@ img
     width:60%;
     color:green;
 }
+@media(max-width:1000px)
+    {
+        button
+        {
+                margin-top:5%;
+        }
+}
 
