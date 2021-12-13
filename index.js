@@ -22,10 +22,4 @@ btn.addEventListener('click',function(){
        header.textContent="draw!";
    }
 });
-@media(max-width:800px)
-{
-   button
-   {
-      margin-top:5%;
-   }
-}
+
