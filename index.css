@@ -39,7 +39,8 @@ img
     {
         button
         {
-                margin-top:8%;
+                margin-top:3rem;
+                background:red
         }
-}
+    }
 
